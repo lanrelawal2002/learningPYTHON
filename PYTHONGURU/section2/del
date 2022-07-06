@@ -1,0 +1,7 @@
+#!/usr/bin/python3
+
+f = '19'
+j = "22"
+
+print(f)
+print(j)
