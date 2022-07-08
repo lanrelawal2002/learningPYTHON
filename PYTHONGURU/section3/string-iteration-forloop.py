@@ -2,4 +2,4 @@
 
 s = "hello"
 for j in s:
-        print(j)
+    print(j, end='mit')
