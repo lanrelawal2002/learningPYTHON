@@ -8,3 +8,13 @@ for key in friends:
     print(key, ":", friends[key])
 
 print(len(friends))
+
+print('tom' in friends)
+
+print('bob' not in friends)
+
+print(friends)
+
+print('jerry' not in friends)
+
+print('jerry' in friends)
